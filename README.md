@@ -10,3 +10,7 @@ A survey of the papers related to generating the questions:
 
 * Text2Test: Question Generator Utilizing Information Abstraction Techniques and Question Generation Methods for Narrative and Declarative Text [[paper]](http://www.dlsu.edu.ph/research/centers/adric/nlp/_archive/8th-NNLRS/8nnlprs-29.pdf)
 * Automatic Factual Question Generation from Text [[paper]](http://www.cs.cmu.edu/~ark/mheilman/questions/papers/heilman-question-generation-dissertation.pdf)
+
+* Neural Question Generation from Text: A Preliminary Study [paper](https://arxiv.org/abs/1704.01792)
+* Question Generation for Question Answering [paper](http://www.aclweb.org/anthology/D17-1091)
+* Learning to Ask: Neural Question Generation for Reading Comprehension [paper](https://arxiv.org/pdf/1705.00106.pdf)
