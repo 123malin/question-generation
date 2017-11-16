@@ -40,7 +40,7 @@ QG（question generation）问题现如今大致有以下几类解决方法：
 对现有的几种QG方法进行性能评测，包括本文提出的K2Q-RNN，K2Q-PBSMT（Phrase Based machine translation system) MOSES, 以及传统的基于模型的方法。评测标准是用机器翻译里的指标BLEU，即统计共同出现的词的比例。但该标准无法完全反应模型的性能，例如简单的关键字复制和reference quesiton只有一个的问题。所以在此基础上，加入人工评测。
 
 ### 实验结果
-![experiment]("image/5.png")
+![experiment]("./image/5.png")
 
 ### 问题分析
 错误问题主要涉及以下几个方面的错误：
