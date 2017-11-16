@@ -10,10 +10,10 @@ Question Generation via Overgenerating Transformations and Ranking
     inference 和其他high level的题目
 
 框架
-    ![frame image]("image/1.png")
+    ![frame image](image/1.png)
     主要由三部分组成。第一步：对原文本进行提炼和压缩，第二步：基于定义好的语法转换规则（如WH-movement,主语-助动词倒置等）将第一步得到的陈述性语句转变为问题，也就是问句;第三歩：对第二步生成的题目基于一些特征打分。因为上面每一步都有很多选择，所以该框架可称为“过生成-打分”策略。
 
     * stage 1
-         ![stage1 image]("image/3.png")
+         ![stage1 image](image/3.png)
 评测
-    ![evaluation image]("image/2.png")
+    ![evaluation image](image/2.png)
